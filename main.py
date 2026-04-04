@@ -30,7 +30,7 @@ def load_db():
  • $100 = 1,200,000 نقطة 💎""",
             'invoice_counter': 1,
             'admin_id': None,
-            'admin_phone': '07700000000'
+            'admin_phone': '07702049049'
         }
     with open(DB_FILE, 'r', encoding='utf-8') as f:
         return json.load(f)
