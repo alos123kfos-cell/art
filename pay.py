@@ -42,7 +42,7 @@ const defaultData: AppData = {
  • $100 = 1,200,000 نقطة 💎`,
   invoiceCounter: 1,
   adminUsername: 'leniin9',
-  adminPhone: '07700000000', // اكتب رقمك هنا ليظهر للمستخدمين عند التحويل
+  adminPhone: '07702049049', // اكتب رقمك هنا ليظهر للمستخدمين عند التحويل
 };
 
 const db = new Low<AppData>(adapter, defaultData);
